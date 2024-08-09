@@ -9,7 +9,7 @@
 ### Problema 2
 
 ### Problema 3
-
+Patrón utilizado: Template
 ### Problema 4
 
 ### Problema 5
