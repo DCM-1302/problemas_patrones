@@ -13,3 +13,4 @@ Patrón utilizado: Template
 ### Problema 4
 
 ### Problema 5
+Patrón utilizado: Decorator
