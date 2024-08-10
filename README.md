@@ -18,6 +18,8 @@ Patrón utilizado: Template
 
 ### Problema 4
 Patrón utilizado: Command
+<img width="1155" alt="Captura de pantalla 2024-08-10 a la(s) 12 59 13 a  m" src="https://github.com/user-attachments/assets/41388282-f183-4e37-a47a-ae2ffc100bf7">
+
 
 
 ### Problema 5
