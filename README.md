@@ -12,6 +12,9 @@ Patrón utilizado: Prototype
 Patrón utilizado: Observer
 ### Problema 3
 Patrón utilizado: Template
+![image](https://github.com/user-attachments/assets/ea297e61-88a3-4005-b984-bebad4bb8402)
+
+
 ### Problema 4
 Patrón utilizado:
 ### Problema 5
