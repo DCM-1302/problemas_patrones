@@ -4,8 +4,8 @@ public abstract class FoodItem {
 
     public final void processOrder () {
         takeOrder();
-        prepareOrder();
         checkAvailability();
+        prepareOrder();
         calculatePrice();
         completeOrder();
     }
