@@ -10,12 +10,13 @@ Patrón utilizado: Prototype
 
 ### Problema 2
 Patrón utilizado: Observer
+
 ### Problema 3
 Patrón utilizado: Template
-![image](https://github.com/user-attachments/assets/ea297e61-88a3-4005-b984-bebad4bb8402)
-
+![image](https://github.com/user-attachments/assets/7ad132a7-13b2-4eb8-9cd1-6e04a28bc6c7)
 
 ### Problema 4
 Patrón utilizado:
+
 ### Problema 5
 Patrón utilizado: Decorator
