@@ -22,3 +22,5 @@ Patrón utilizado: Command
 
 ### Problema 5
 Patrón utilizado: Decorator
+![image](https://github.com/user-attachments/assets/fecc422b-0c23-4138-ac25-827491a1ef06)
+
