@@ -1,4 +1,6 @@
 package patrones.problema5;
 
-public class Room {
+interface Room {
+    String roomDescription();
+    double cost();
 }
