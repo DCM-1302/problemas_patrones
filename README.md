@@ -6,7 +6,7 @@
 
 ### Problema 1
 Patrón utilizado: Prototype
-![image](https://github.com/user-attachments/assets/53ee676a-91a0-48e1-94c9-a2134bd0662a)
+![image](https://github.com/user-attachments/assets/32e724e9-7d9b-4a9b-a4da-5b720d6313b4)
 
 ### Problema 2
 Patrón utilizado: Observer
