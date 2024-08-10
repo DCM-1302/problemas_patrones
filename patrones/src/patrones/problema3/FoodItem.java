@@ -14,6 +14,8 @@ public abstract class FoodItem {
     public abstract void prepareOrder ();
     public abstract void checkAvailability ();
     public abstract void calculatePrice ();
-    private void completeOrder ();
+    private void completeOrder () {
+        System.out.println("Order Completed.");
+    }
 
 }
