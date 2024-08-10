@@ -17,7 +17,8 @@ Patrón utilizado: Template
 ![image](https://github.com/user-attachments/assets/7ad132a7-13b2-4eb8-9cd1-6e04a28bc6c7)
 
 ### Problema 4
-Patrón utilizado:
+Patrón utilizado: Command
+
 
 ### Problema 5
 Patrón utilizado: Decorator
